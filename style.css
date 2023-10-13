@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightsteelblue;
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1, h2 {
+    padding: 1rem;
+    margin: 1rem;
+}
+
+h1 {
+    color: white;
+}
+
+img {
+    width: 550px;
+    height: 550px;
+    border-radius: 150px;
+    border: 15px dashed red;
+}
+
+a {
+    font-size: 1.5rem;
+}
+
+li {
+    color: darkgreen;
+}
